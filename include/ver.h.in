@@ -1,0 +1,10 @@
+//
+// Created by Igor on 25.07.2019.
+//
+
+#ifndef _VERSION_H
+#define _VERSION_H
+
+const char *g_version = "${Example_VERSION}";
+
+#endif //_VERSION_H
